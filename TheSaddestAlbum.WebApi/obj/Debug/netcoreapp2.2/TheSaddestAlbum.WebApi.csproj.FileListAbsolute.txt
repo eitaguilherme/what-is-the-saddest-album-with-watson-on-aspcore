@@ -1,0 +1,17 @@
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.WebApi\bin\Debug\netcoreapp2.2\TheSaddestAlbum.WebApi.deps.json
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.WebApi\bin\Debug\netcoreapp2.2\TheSaddestAlbum.WebApi.runtimeconfig.json
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.WebApi\bin\Debug\netcoreapp2.2\TheSaddestAlbum.WebApi.runtimeconfig.dev.json
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.WebApi\bin\Debug\netcoreapp2.2\TheSaddestAlbum.WebApi.dll
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.WebApi\bin\Debug\netcoreapp2.2\TheSaddestAlbum.WebApi.pdb
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.WebApi\bin\Debug\netcoreapp2.2\TheSaddestAlbum.Data.dll
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.WebApi\bin\Debug\netcoreapp2.2\TheSaddestAlbum.Data.pdb
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.WebApi\obj\Debug\netcoreapp2.2\TheSaddestAlbum.WebApi.csprojAssemblyReference.cache
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.WebApi\obj\Debug\netcoreapp2.2\TheSaddestAlbum.WebApi.csproj.CoreCompileInputs.cache
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.WebApi\obj\Debug\netcoreapp2.2\TheSaddestAlbum.WebApi.RazorAssemblyInfo.cache
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.WebApi\obj\Debug\netcoreapp2.2\TheSaddestAlbum.WebApi.RazorAssemblyInfo.cs
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.WebApi\obj\Debug\netcoreapp2.2\TheSaddestAlbum.WebApi.AssemblyInfoInputs.cache
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.WebApi\obj\Debug\netcoreapp2.2\TheSaddestAlbum.WebApi.AssemblyInfo.cs
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.WebApi\obj\Debug\netcoreapp2.2\TheSaddestAlbum.WebApi.RazorTargetAssemblyInfo.cache
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.WebApi\obj\Debug\netcoreapp2.2\TheSaddestAlbum.WebApi.csproj.CopyComplete
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.WebApi\obj\Debug\netcoreapp2.2\TheSaddestAlbum.WebApi.dll
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.WebApi\obj\Debug\netcoreapp2.2\TheSaddestAlbum.WebApi.pdb

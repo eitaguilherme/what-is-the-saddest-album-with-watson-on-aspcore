@@ -1,0 +1,12 @@
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Data\bin\Debug\netstandard2.0\TheSaddestAlbum.Data.deps.json
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Data\bin\Debug\netstandard2.0\TheSaddestAlbum.Data.dll
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Data\obj\Debug\netstandard2.0\TheSaddestAlbum.Data.csprojAssemblyReference.cache
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Data\obj\Debug\netstandard2.0\TheSaddestAlbum.Data.csproj.CoreCompileInputs.cache
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Data\obj\Debug\netstandard2.0\TheSaddestAlbum.Data.AssemblyInfoInputs.cache
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Data\obj\Debug\netstandard2.0\TheSaddestAlbum.Data.AssemblyInfo.cs
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Data\bin\Debug\netstandard2.0\TheSaddestAlbum.Data.pdb
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Data\obj\Debug\netstandard2.0\TheSaddestAlbum.Data.dll
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Data\obj\Debug\netstandard2.0\TheSaddestAlbum.Data.pdb
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Data\bin\Debug\netstandard2.0\Microsoft.Extensions.Http.dll
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Data\bin\Debug\netstandard2.0\Microsoft.Extensions.Http.xml
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Data\obj\Debug\netstandard2.0\TheSaddestAlbum.Data.csproj.CopyComplete

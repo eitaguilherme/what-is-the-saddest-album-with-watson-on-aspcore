@@ -1,0 +1,8 @@
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Infrastructure\bin\Debug\netcoreapp2.2\TheSaddestAlbum.Infrastructure.deps.json
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Infrastructure\bin\Debug\netcoreapp2.2\TheSaddestAlbum.Infrastructure.runtimeconfig.json
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Infrastructure\bin\Debug\netcoreapp2.2\TheSaddestAlbum.Infrastructure.runtimeconfig.dev.json
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Infrastructure\bin\Debug\netcoreapp2.2\TheSaddestAlbum.Infrastructure.dll
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Infrastructure\obj\Debug\netcoreapp2.2\TheSaddestAlbum.Infrastructure.csprojAssemblyReference.cache
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Infrastructure\obj\Debug\netcoreapp2.2\TheSaddestAlbum.Infrastructure.csproj.CoreCompileInputs.cache
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Infrastructure\obj\Debug\netcoreapp2.2\TheSaddestAlbum.Infrastructure.AssemblyInfoInputs.cache
+C:\meus\aspcore\TheSaddestAlbum\TheSaddestAlbum.Infrastructure\obj\Debug\netcoreapp2.2\TheSaddestAlbum.Infrastructure.AssemblyInfo.cs
